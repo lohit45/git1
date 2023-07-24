@@ -1,0 +1,72 @@
+WEB SITE :
+	Group of WEB pages:
+WEB SEVER:
+DNS Sever:
+PROTOCOL:
+WEB APPLICATIONS: we can change things amazon
+FROnt end :HTML<CSS<JS
+Back End :PHP,JAVA,PYTHON
+
+
+
+<tag>-markup
+hyper text <links to para etc..>
+content
+</br>
+</hr>
+<ul type"none,circle,rect,square,"
+start "A,a,i,I,
+reversed
+<dl<dt<dd>>>
+<table border>
+<tr>
+<td>
+<th>
+<style border-collapse :collapse>
+<colspan ="3" it will occupy 3 columns">
+&copy,&lt,Entities
+nbsp non breakable space
+pre
+<xmp>
+<a href =" " target="blank
+
+block and inline :block <p>
+inline <i>
+form action="response.html>
+type:
+submit button
+reset color hidden radio
+check box range date file search time month url week required maxlength disabled
+
+
+select option size
+
+text area
+
+iframe to use in same page
+
+<audio controls loop>
+<video poster=>
+
+
+
+p selection visited active hover
+background image background-repeat no repeat background-position
+background-attachment="scroll' fixed"
+auto
+font-family
+font-size
+font-style
+font-weight
+text-color
+justify-content all sides same
+tex-align
+color
+text-decoration
+text-transform
+letter-spacing word-spacing
+line-height
+overflow :slow visible
+float
+display :float
+list-style-type

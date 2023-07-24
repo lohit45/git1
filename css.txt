@@ -1,0 +1,34 @@
+background-color:
+color:(font)
+height:
+width:
+padding: top right bottom left
+border: width color style
+outline:width color style
+margin:
+background-image:url()
+
+floating : left (right)
+clear: both
+
+position:fixed,relative,absolute,static 
+top:
+left:
+z-index:high shows on top
+fixed: all other elements are ignoring the html element
+
+relative means withrespect to its original position
+absolute
+
+
+visibility :hide
+display:none;
+
+
+text-decoration : underline,overline
+letter-spacing:3px
+text-shadow:3px
+font-weight:
+font-style"
+overflow : hidden
+word-wrap :nowrap

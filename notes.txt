@@ -1,0 +1,34 @@
+Introduction:
+
+
+
+HTML (Hypertext Markup Language) uses a markup system composed of elements which represent specific
+content. Markup means that with HTML you declare what is presented to a viewer, not how it is presented. 
+HTML is sometimes called a programming language but it has no logic, so is a markup language.
+There are some HTML elements that don't have a closing tag or any contents. These are called void elements. Void
+elements include <img>, <meta>, <link> and <input>.
+
+
+
+Elements: video, audio, table, footer
+Tags: <video>, <audio>, <table>, <footer>, </html>, </body
+
+
+Sample 1:
+<!DOCTYPE html>
+<html>
+<head>
+<title>HELLO</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>HELLO world</h1>
+<p>CHi po ra </p>
+</body>
+</html>
+
+
+<pre> Defines pre-formatted text
+
+
+
