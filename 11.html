@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="utf-8">
+ <title>
+ arrays
+ </title>
+ </head>
+ <body>
+ <p id="myParagraph">
+ Javascript.
+ </p>
+ <script>
+     var sh=["bread","butter",1,1];
+     function show(x)
+     {
+         document.getElementById("myParagraph").innerHTML+= "<br />" +x;
+     }
+     window.console.log(sh);
+     show(sh);
+     var s ="lohith is good";
+     function s(x)
+     {
+         document.getElementById("myParagraph").innerHTML +=x;
+     }
+     
+     show(s);
+     sh.splice(1,1);
+     sh.sort();
+     sh.reverse();
+     var arra=s.split(' ');
+     show(sh);
+     show(arra);
+     
+     </script></body></html>

@@ -1,0 +1,33 @@
+#container
+{
+    
+    
+    
+    width:1050px;
+    border : 1px solid grey;
+    margin : 0 auto;
+    
+    padding: 10px 0px;
+}
+#header
+{
+    height:100px;
+}
+#brand
+{
+    color:darkviolet;
+    font-weight: 100;
+    font-size :40px;
+    text-decoration: none;
+    float:left;
+    
+}
+#search
+{
+   
+    background: linear-gradient(red);
+    float : right;
+    
+    
+}
+
